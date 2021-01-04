@@ -1,0 +1,52 @@
+h1{
+    color: blue;
+    background-color: darkgoldenrod;
+    height: 90px;
+    width: 75%;
+}
+h1{
+    color: brown;
+}
+h1{
+    color: chartreuse;
+}
+p{
+    color: cornflowerblue;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#murga{
+    font-size: 40px;
+    color: palevioletred;
+}
+#murgi{
+    color: tomato;
+    font-size: 30px;
+}
+.month{
+    background-color: violet;
+}
+img{
+    width: 50%;
+}
+h1.month{
+    font-size: 45px;
+}
+.romantic{
+    color: black;
+}
+.blog{
+    border: 1px solid red;
+    border-radius: 20px;
+    margin: 10px;
+    width: 30%;
+    display: inline-block;
+
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
